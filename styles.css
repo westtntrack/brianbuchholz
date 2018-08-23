@@ -10,6 +10,7 @@ h1 {
   color: red;
 }
 
-navbar {
+.navbar li{
   display: inline;
+  background-image: url("https://goo.gl/images/7pRdbj");
 }
