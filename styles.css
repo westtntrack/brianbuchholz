@@ -30,3 +30,8 @@ h1 {
 .login a:active {
 	top: 5px;
 }
+
+.blue {
+  background-image: url('img/bluepic.jpg');
+  background-repeat: no-repeat;
+}
