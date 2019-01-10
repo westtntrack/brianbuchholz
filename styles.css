@@ -1,37 +1,3 @@
 body {
   background-color: green;
 }
-
-.container {
-  background-color: Blue;
-}
-
-h1 {
-  color: red;
-}
-
-.navbar li{
-  display: inline;
-  background-image: url("https://goo.gl/images/7pRdbj");
-}
-
-.login {
-  float: right;
-}
-
-.login a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-	position: relative;
-}
-
-.login a:active {
-	top: 5px;
-}
-
-.blue {
-  background-image: url('img/bluepic.jpg');
-  background-repeat: no-repeat;
-}
